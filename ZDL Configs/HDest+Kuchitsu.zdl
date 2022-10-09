@@ -1,0 +1,19 @@
+[zdl.save]
+port=GZDoom
+iwad=DooM II
+dlgmode=closed
+gametype=0
+players=0
+file0=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Gameplay Mods/HideousDestructor.pk7
+file1=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Weapons/HDBulletLib-Recasted-main.pk3
+file2=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Weapons/hd-peppergrinder-master.pk3
+file3=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Weapons/PB-Mohl_HDAddon_WeaponPack_4.8.2a_RC2a.pk3
+file4=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Skins & HD Packs/PB_HDReskin.pk3
+file5=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Skins & HD Packs/PB_HDReskin_Pickups.pk3
+file6=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Graphics/HD_3D_Weapons.pk3
+file7=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Sound Packs/immerse-HD.pk3
+file8=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Graphics/nashgore.pk3
+file9=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Graphics/bludtype.txt
+file10=C:/Users/KiltedKaboodle/Desktop/WADS+pks/Maps/kuchitsu.wad
+[zdl.general]
+conflib=sunrise

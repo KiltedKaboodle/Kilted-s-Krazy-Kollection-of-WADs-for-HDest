@@ -1,0 +1,52 @@
+// Smooth Doom - added by Nash Muhandes
+XBlood
+BlueBlood
+GreenBlood
+
+// Beautiful Doom - added by sibullski
+BD_BloodyFootPrint
+BD_Blood
+BD_BloodPool
+BD_SSGibControl
+BD_GibBlood
+BD_GibBloodPool
+bdoom_blood
+bdoom_gibs
+bdoom_nobossgibs
+bdoom_livegibs
+AniBloodPool
+TestBlood
+
+// DoomRL Arsenal Monster Pack - added by cubebert
+RLNashGore_Blood
+RLNashGore_CyberBlood
+RLNashGore_BossBlood
+RLNashGore_TechVileBlood
+RLSpectreBlood
+
+// Hideous Destructor - added by Sirus
+BloodSplat
+BloodSplatSilent
+MegaBloodSplatter
+HDMasterBlood
+CacoShellBlood
+
+// Complex Doom - added by sibullski
+BlackBlood
+OrangeBlood
+PurpleBlood
+
+// D4T: Death Foretold - added by OverDriver05
+D4TBlood
+BloodGibDropper
+BloodGibDropperBig
+BloodGib1
+BloodGib2
+BloodGib3
+BloodGib4
+BloodCloud
+BloodCloudMediumBig
+BloodCloudBig
+BloodParticle
+BloodParticleSmall
+NoBloodPuff

@@ -1,0 +1,17 @@
+[zdl.save]
+dlgmode=closed
+gametype=0
+players=1
+port=GZDoom
+skill=5
+host=24.93.136.36
+iwad=DooMII
+file0=C:/Users/KiltedKaboodle/Desktop/WADS+pks/hd-4.8.2a.pk7
+file1=C:/Users/KiltedKaboodle/Desktop/WADS+pks/HDFX.pk3
+file2=C:/Users/KiltedKaboodle/Desktop/WADS+pks/LFW-HD-M79.pk3
+file3=C:/Users/KiltedKaboodle/Desktop/WADS+pks/LFW-HD-SPAS-12.pk3
+file4=C:/Users/KiltedKaboodle/Desktop/WADS+pks/HD_3D_Weapons.pk3
+file5=C:/Users/KiltedKaboodle/Desktop/WADS+pks/DEX_Textures.wad
+file6=C:/Users/KiltedKaboodle/Desktop/WADS+pks/DEX_1_1.wad
+[zdl.general]
+conflib=sunrise
