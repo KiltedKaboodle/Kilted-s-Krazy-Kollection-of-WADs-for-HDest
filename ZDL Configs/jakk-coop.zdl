@@ -1,0 +1,27 @@
+[zdl.save]
+port=GZDoom
+iwad=DooM II
+dlgmode=open
+gametype=0
+players=0
+extra=-sv_cheats 1
+host=25.55.62.195
+file0=D:/GZDoom/WADS+pks/Gameplay Mods/HideousDestructor.pk7
+file1=D:/GZDoom/WADS+pks/Gameplay Mods/Ugly-as-Sin-master.pk3
+file2=D:/GZDoom/WADS+pks/Weapons/HDBulletLib-Recasted-main.pk3
+file3=D:/GZDoom/WADS+pks/Addons/acecorelib-master.pk3
+file4=D:/GZDoom/WADS+pks/Addons/hdest-wimp.pk3
+file5=D:/GZDoom/WADS+pks/Weapons/hd-peppergrinder-master.pk3
+file6=D:/GZDoom/WADS+pks/Addons/hdestbubbles-emmy-gote-baked.pk3
+file7=D:/GZDoom/WADS+pks/Weapons/PB-Mohl_HDAddon_WeaponPack_4.8.2a_RC2a.pk3
+file8=D:/GZDoom/WADS+pks/Skins & HD Packs/PB_HDReskin.pk3
+file9=D:/GZDoom/WADS+pks/Skins & HD Packs/PB_HDReskin_Pickups.pk3
+file10=D:/GZDoom/WADS+pks/Sound Packs/z_HDaddon.pk3
+file11=D:/GZDoom/WADS+pks/Addons/Powersuit.pk3
+file12=D:/GZDoom/WADS+pks/Addons/Powersuitbrowning.pk3
+file13=D:/GZDoom/WADS+pks/Addons/Merchant.pk3
+file14=D:/GZDoom/WADS+pks/Sound Packs/immerse-HD.pk3
+file15=D:/GZDoom/WADS+pks/Graphics/HDFX.pk3
+file16=D:/GZDoom/WADS+pks/Maps/cafebrk1.wad
+[zdl.general]
+conflib=sunrise
